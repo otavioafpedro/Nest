@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ListLayout</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+    <string name="title_activity_main_fragment">MainFragment</string>
+    <string name="comodos">Comodos:</string>
+    <string name="tvEspacos">Espaços</string>
+    <string name="tvGaragem">Garagem</string>
+    <string name="tvObservacoes">Observações</string>
+    <plurals name="quarto">
+        <item quantity="one">Quarto: 1</item>
+        <item quantity="other">Quartos: %d</item>
+    </plurals>
+    <plurals name="suite">
+        <item quantity="one">Suíte: 1</item>
+        <item quantity="other">Suítes: %d</item>
+    </plurals>
+    <plurals name="bwc">
+        <item quantity="one">Banheiro: 1</item>
+        <item quantity="other">Banheiros: %d</item>
+    </plurals>
+    <plurals name="tvVaga">
+        <item quantity="one">Vaga: 1</item>
+        <item quantity="other">Vagas: %d</item>
+    </plurals>
+    <string name="title_activity_imovel_detalhe">ImovelDetalheActivity</string>
+    <string name="aMaior">Área Total: %.2f</string>
+    <string name="aMenorCasa">Área Construída: %.2f</string>
+    <string name="aMenorAp">Área Útil: %.2f</string>
+    <string name="tpCasa">Casa</string>
+    <string name="tpAp">Apartamento</string>
+    <string name="tpTer">Terrano</string>
+</resources>
